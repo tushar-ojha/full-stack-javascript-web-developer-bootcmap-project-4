@@ -1,4 +1,4 @@
-[Go Live Buddy!](https://tushar-ojha-digital-marketing-page.netlify.app)
+[Go Live Buddy!](https://tushar-ojha-crypto-landing-page.netlify.app)
 
 ## About project:
 
