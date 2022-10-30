@@ -4,6 +4,7 @@
 
 ![Design Image](/assets/html-128px-logo.png)
 ![Design Image](/assets/html-64px-logo.png)
+![Design Image](/assets/css-64px-logo.png)
 ![Design Image](/assets/html-32px-logo.png)
 
 ## About project:
