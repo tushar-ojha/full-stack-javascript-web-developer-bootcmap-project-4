@@ -3,6 +3,8 @@
 [Go Live Buddy!](tushar-ojha-digital-marketing-page.netlify.app)
 
 ![Design Image](/assets/html-128px-logo.png)
+![Design Image](/assets/html-64px-logo.png)
+![Design Image](/assets/html-32px-logo.png)
 
 ## About project:
 
